@@ -19,7 +19,7 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
-> As an [role], <br> 
+> As a track and field enthusiast, <br> 
 > I want to [goal], <br> 
 > so that I can [benefit].
 
